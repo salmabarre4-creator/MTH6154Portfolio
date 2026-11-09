@@ -4,7 +4,7 @@
 
 ## Summary
 
-Interest is the money earned on savings or charged on loans. The variable P is the intial amount invested; important formulas including this are…
+Interest is the money earned on savings or charged on loans. The principle P is the intial amount invested or borrowed. Interest rates could be compounded in different ways, which ultimately affects the accumulated value of an investment over time. The main formulas are presented below.
 
 Annual compounding =   $$P(1+r)^T$$
 
