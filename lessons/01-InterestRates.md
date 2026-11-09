@@ -4,14 +4,11 @@
 
 ## Summary
 
-In your own words, the main ideas of the lesson. Short sentences are fine.
+Interest is the money earned on savings or charged on loans. The variable P is the intial amount invested; important formulas including this are…
 
-Maths is written between dollar signs. For example `$A = P(1+i)^n$` shows
-as $A = P(1+i)^n$, and a displayed formula uses double dollars:
+Annual compounding =   $$ P(1+r)^T$$
+Compounding n times yearly = $$P(1+/fra{r}{n})^{nT}$$
 
-$$
-\left(1+\frac{i^{(m)}}{m}\right)^m = 1+i
-$$
 
 ## My example
 
