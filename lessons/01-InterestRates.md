@@ -3,7 +3,8 @@
 [Back to contents](../README.md)
 
 ## Summary
-#1.1 Interest Rates 
+**1.1 Interest Rates** 
+
 Interest is the money earned on savings or charged on loans. The principle P is the intial amount invested or borrowed. Interest rates could be compounded in different ways, which ultimately affects the accumulated value of an investment over time. The main formulas are presented below.
 
 **Annual compounding:**
