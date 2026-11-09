@@ -7,6 +7,7 @@
 Interest is the money earned on savings or charged on loans. The variable P is the intial amount invested; important formulas including this are…
 
 Annual compounding =   $$P(1+r)^T$$
+
 Compounding n times yearly = $$P(1+/frac{r}{n})^{nT}$$
 
 
