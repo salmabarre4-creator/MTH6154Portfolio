@@ -71,7 +71,7 @@ $$A=5000(1+\frac{0.06}{12})^{36}$$ = 5983.40
 
 ### Exercise 1.x (from Exercise Sheet 1)
 
-Question, then your solution.
+…
 
 ## Spreadsheet
 
