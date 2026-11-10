@@ -16,7 +16,15 @@ $$P(1+\frac{r}{n})^{nT}$$
 **Effective annual interest rate:**
 $$r_{\mathrm{eff}} = \left(1+\frac{r}{n}\right)^n-1$$
 
+Where P is the principal, r is the annual interest rate, t is time in years and n is the number of compounding periods per year.
 
+**1.2 Variable Interest Rates**
+
+Interest rates do no aways remain constant and may change over time. A variable interest rate is represented by r(t).
+
+Accumulated value with a continuously varying interest rate is:
+
+$$P(t)= P(0)e^{\int_0^t r(u)\, du}$$
 
 
 ## My example
