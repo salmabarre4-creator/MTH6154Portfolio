@@ -22,7 +22,7 @@ Where P is the principal, r is the annual interest rate, t is time in years and 
 
 Interest rates do no aways remain constant and may change over time. A variable interest rate is represented by r(t).
 
-Accumulated value with a continuously varying interest rate is:
+**Accumulated value with a continuously varying interest rate is:**
 
 $$P(t)= P(0)e^{\int_0^t r(u)\, du}$$
 
