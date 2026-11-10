@@ -30,6 +30,12 @@ $$P(t)= P(0)e^{\int_0^t r(u)\, du}$$
 
 $$\bar{r}(t)=\frac{1}{t}\int_0^t r(u)\, du$$
 
+**1.3 Inflation**
+Inflation is the increase in the general price level, reducing purchasing power of money. Nominal interest rate is the rate without adjusting for inflation whereas real interest rates is adjusted.
+
+**Real interest rate:**
+$$r_{\mathrm{real}}=\frac{r-r_{\mathrm{inf}}}{1=r_{\mathrm{inf}}}$$
+
 
 ## My example
 
