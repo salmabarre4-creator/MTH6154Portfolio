@@ -58,7 +58,7 @@ Calculate the accumulated value if the interest is compounded:
 
 $$A=P(t)= P(0)e^{\int_0^t r(u)\, du}$$
 
-A = 5000(1.06)^3 =5,955.08 
+$$A = 5000(1.06)^{3} =5,955.08$$ 
 
 **2.Monthly compounding**
 
