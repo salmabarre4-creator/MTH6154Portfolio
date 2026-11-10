@@ -26,6 +26,10 @@ Interest rates do no aways remain constant and may change over time. A variable 
 
 $$P(t)= P(0)e^{\int_0^t r(u)\, du}$$
 
+**Average compounded interest rate:**
+
+$$\bar{r}(t)=\frac{1}{t}\int_0^t r(u)\, du$$
+
 
 ## My example
 
