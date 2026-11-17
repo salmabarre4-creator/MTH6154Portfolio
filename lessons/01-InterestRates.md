@@ -131,7 +131,7 @@ $$|0.02-r|<0.0051$$
 
 $$-0.0051<0.02-r<0.0051$$
 
-$$0.0149<r<0.0251$$
+$$0.0149< r < 0.0251$$
 
 The approximation is accurate within 0.01 percentage points when the nominal interest rate lies strictly between 1.49% and 2.51%. 
 
