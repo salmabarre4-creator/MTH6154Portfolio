@@ -69,7 +69,79 @@ $$A=5000(1+\frac{0.06}{12})^{36}$$ = 5983.40
 
 ## Solved exercises
 
-### Exercise 1.x (from Exercise Sheet 1)
+### Exercise 1: Compound interest 
+
+**Source:** Week 1 Tutorial, Exercise 1 
+
+**Problem:** A £700 investment earns 3% nominal annual interest. Calculate its future value under different compounding frequencies. 
+
+**Solution:**
+
+###Part (A): Future value 
+
+**General compound interest formula:** 
+
+$$A=P\left(+\frac{r}{m}\right)^{mt}$$
+
+Where P = 700, r= 0.03, t = 3, and m is the number of compounding periods per year.
+
+**Annually:**
+
+$$A=700(1+0.03)^3$$= 764.91
+
+**Monthly:**
+
+$$A=700(1+\frac{0.03}{12})^{36}$$= 765.89
+
+**Semi-annually:**
+
+$$A=700(1+\frac{0.03}{2})^{6}$$= 765.41
+
+**Continuously:**
+
+$$A=700e^{0.03\times3}$$= 765.92
+
+
+
+**Source:** Week 1 Tutorial, Exercise 2 
+
+**Question:** Assuming an inflation rate of 2%, determine the range of nominal interest rates for which the approximate real interest rate is accurate to within 0.001 percentage points. 
+
+**Solution:**
+
+Exact real interest rate:
+
+$$r_{\mathrm{real}}=\frac{1+r}{1+i}-1$$
+
+Approx real interest rate:
+
+$$r_{\mathrm{real}}\approx r-i$$
+
+Given an inflation rate of i= 0.02, the required accuracy is:
+
+$$|r_{\mathrm{rea}}-(r=i)<0.0001$$
+
+Substituting the exact formula:
+
+$$\left|\frac{1+r}{1.02}-1-(r-0.02)\right|<00001$$
+
+$$\frac{0.02|0.02-r|}{1.02}<0.0001$$
+
+$$|0.02-r|<0.0051$$
+
+$$-0.0051<0.02-r<0.0051$$
+
+$$\boxed{0.0149<r<0.0251}$$
+
+The approximation is accurate within 0.01 percentage points when the nominal interest rate lies strictly between 1.49% and 2.51%. 
+
+
+
+
+
+
+
+
 
 …
 
