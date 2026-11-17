@@ -137,15 +137,9 @@ The approximation is accurate within 0.01 percentage points when the nominal int
 
 
 
-
-
-
-
-
-
-…
-
 ## Spreadsheet
 
-[01-InterestRates.xlsx](../spreadsheets/01-InterestRates.xlsx): what it
+
+[Download the Interest Rate Calculator](../spreadsheets/Lesson%201%20.xlsx)
+: what it
 does, which cells to change and what to look at.
