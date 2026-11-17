@@ -1,1 +1,9 @@
 
+## Excel Spreadsheet
+
+The linked Excel spreadsheet provides an interactive interest rate calculator, demonstrating how different compounding frequencies affect future values, effective annual interest rates and inflation-adjusted returns.
+
+Users can change the initial investment, nominal interest rate, investment period and inflation rate to explore how these variables influence the results.
+
+[Download the Interest Rate Calculator](../spreadsheets/01-InterestRates.xlsx)
+
