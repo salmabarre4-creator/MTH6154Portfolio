@@ -141,5 +141,5 @@ The approximation is accurate within 0.01 percentage points when the nominal int
 
 
 [Download the Interest Rate Calculator](../spreadsheets/Lesson%201%20.xlsx)
-: what it
-does, which cells to change and what to look at.
+
+The Excel spreadsheet is an interactive interest rate calculator demonstrating how different compounding frequencies affect investment growth. Users can modify the initial investment (B3), annual interest rate (B4), investment period (B5) and inflation rate (B6). The spreadsheet automatically calculates future values, effective annual interest rates, inflation-adjusted returns and the time required to reach a target balance. This illustrates the relationship between compounding, inflation and the time value of money. 
