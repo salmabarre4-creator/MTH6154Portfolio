@@ -38,7 +38,7 @@ Two cash-low streams are equivalent when their present values are equal.
 
 The rate of return measures investment probability.
 
-$$R=\left(\frac{P_{\text{final}}}{P\right}^{1/T}-1$$
+$$R=\left(\frac{P_{\text{final}}}{P}\right}^{1/T}-1$$
 
 **Internal rate of return (IRR):**
 
