@@ -8,7 +8,7 @@
 
 Inflation reduces the purchasing power of money. The real interest rate measures returns after accounting for inflation.
 
-$$r_{\text{real}}=\frac{r_{\ex{eff}}-r_{\text{inf}}}{1+r_{\text{inf}}}$$
+$$r_{\text{real}}=\frac{r_{\text{eff}}-r_{\text{inf}}}{1+r_{\text{inf}}}$$
 
 For small rates:
 
