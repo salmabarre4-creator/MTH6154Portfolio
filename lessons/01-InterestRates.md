@@ -158,7 +158,7 @@ An initial investment of £700 earns 3% nominal interest rate compounded semi-an
 
 Compound interest rate:
 
-$$1000=700\left(1+\frac{0.03}{2}right)^{2T}$$
+$$1000=700\left(1+\frac{0.03}{2}\right)^{2T}$$
 
 Dividing by 700:
 
