@@ -128,6 +128,32 @@ $$r_{\text{eff}}= e^{0003}-1= 0.030455 = 3.0455\%$$
 
 Continous compounding produces the highest effective annual interest rate whereas annual compounding produces the least. 
 
+## Part(c): Inflation adjusted interest rates 
+
+Given an inflation rate of 2%, real interest rates formula 
+
+$$r_{\text{real}}=\frac{r_{\text{eff}}-r_{\text{inf}}}{1+r_{\text{inf}}}$$
+
+**Compounded annually:**
+
+$$r_{\text{real}}=\frac{0.0-0.02}{1.02}= 0.009804 = 0.9804%$$
+
+**Compounded monthly:**
+
+$$r_{\text{real}}=\frac{(1+o.03/12)^{12}-1-0.02}{1.02}\approx 0.010212 = 1.0212%$$
+
+**Compounded semi-annually:**
+
+$$r_{\text{real}}=\frac{0.030225-0.02}{1.02}\approx 0.010025= 1.0025%$$
+
+**Compounded continuously:**
+
+$$r_\text{real}}=\frac{e^{0.003}-1-0.02}{1.02}\approx 0.010250 = 1.0250\%$$
+
+All interest rates are positive meaning that investment purchasing power increases despite inflation.
+
+
+
 
 
 
