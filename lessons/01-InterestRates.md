@@ -77,7 +77,7 @@ $$A=5000(1+\frac{0.06}{12})^{36}$$ = 5983.40
 
 **Solution:**
 
-###Part (A): Future value 
+## Part (A): Future value 
 
 **General compound interest formula:** 
 
@@ -102,7 +102,7 @@ $$A=700(1+\frac{0.03}{2})^{6}$$= 765.41
 $$A=700e^{0.03\times3}$$= 765.92
 
 
-##Exercise 1(b) - Effective Interest Rates 
+## Part(b) - Effective Interest Rates 
 
 Effective annual interest rates:
 
@@ -110,10 +110,23 @@ $$r_{\text{eff}} = \left(1+\frac{r}{n}\right)^{n-1}$$
 
 Given a nominal interest rate of 3%:
 
+**Compounded annually:**
+
+$$r_{\text{eff}} = (1+0.03)^1-1 =0.03 = 3%
+
 **Compounded monthly:**
 
 $$r_{\text{eff}}= (1+0.03)^1-1=3\% = 0.030416 = 3.0416\%$$
 
+**Compounded semi-annually:**
+
+$$r_{\text{eff}} = \left(1+\frac{0.03}{2}\right)^2-1 = 0.030225 = 3.0225\%$$
+
+**Compounded continuously:**
+
+$$r_{\text{eff}}= e^{0003}-1= 0.030455 = 3.0455\%$$
+
+Continous compounding produces the highest effective annual interest rate whereas annual compounding produces the least. 
 
 
 
