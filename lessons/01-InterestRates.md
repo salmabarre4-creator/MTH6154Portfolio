@@ -102,6 +102,21 @@ $$A=700(1+\frac{0.03}{2})^{6}$$= 765.41
 $$A=700e^{0.03\times3}$$= 765.92
 
 
+##Exercise 1(b) - Effective Interest Rates 
+
+Effective annual interest rates:
+
+$$r_{\text{eff}} = \left(1+\frac{r}{n}\right)^{n-1}$$
+
+Given a nominal interest rate of 3%:
+
+**Compounded monthly:**
+
+$$r_{\text{eff}}= (1+0.03)^1-1=3\% = 0.030416 = 3.0416\%$$
+
+
+
+
 
 **Source:** Week 1 Tutorial, Exercise 2 
 
