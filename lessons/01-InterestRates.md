@@ -166,7 +166,7 @@ $$\frac{1000}{700}=(1.015)^{2T}$$
 
 Taking natural logartims:
 
-$$\ln\lef(\ln(1000/700)}{2/ln(1.015)}$$
+$$\ln\left(\frac{1000}{700}\right)=2T\ln(1.015)$$
 
 Rearranging:
 
