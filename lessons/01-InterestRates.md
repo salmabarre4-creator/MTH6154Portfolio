@@ -148,10 +148,33 @@ $$r_{\text{real}}=\frac{0.030225-0.02}{1.02}\approx 0.010025= 1.0025%$$
 
 **Compounded continuously:**
 
-$$r_\text{real}}=\frac{e^{0.003}-1-0.02}{1.02}\approx 0.010250 = 1.0250\%$$
+$$r_\{text{real}}=\frac{e^{0.003}-1-0.02}{1.02}\approx 0.010250 = 1.0250\%$$
 
 All interest rates are positive meaning that investment purchasing power increases despite inflation.
 
+##Exercise 1(d)- Time required for investment growth
+
+An initial investment of £700 earns 3% nominal interest rate compounded semi-annually. We calculate the time required for the balance to reach £1000.
+
+Compound interest rate:
+
+$$1000=700\left(1+\frac{0.03}{2}right)^{2T}$$
+
+Dividing by 700:
+
+$$\frac{1000}{700}=(1.015)^{2T}$$
+
+Taking natural logartims:
+
+$$\ln\lef(\ln(1000/700)}{2/ln(1.015)}$$
+
+Rearranging:
+
+$$T=\frac{\ln(1000/700)}{2\ln(1.015)}$$
+
+$$T=\approx 11.98\text{years}$$
+
+Therefore, the investment reaches £1000 in approximately 12 years. 
 
 
 
