@@ -4,7 +4,7 @@
 
 ## Lecture notes:
 
-### 1.3 inflation
+### 1.3 Inflation
 
 Inflation reduces the purchasing power of money. The real interest rate measures returns after accounting for inflation.
 
