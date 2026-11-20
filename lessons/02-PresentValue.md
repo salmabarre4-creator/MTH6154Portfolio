@@ -45,3 +45,28 @@ $$R=\left(\frac{P_{\text{final}}}{P}\right)^{1/T}-1$$
 The rate at which then present value of future payments equals the initial investment.
 
 $$P\sum_{i=1}^{n}\frac{a_i}{(1+r)^{t_i}}$$
+
+
+## Example question:
+
+### Question:
+
+A student wants to save for a £5000 holiday in 4 years. A savings account offers an annual interest rare of 5%, compounded annually.
+
+How much should the student invest today to have £5000 in 4 years?
+
+## Solution:
+
+$$PV={\frac{FV}{{1+i}^n}}$$
+
+Where:
+FV = 5000 (future value)
+i = 0.05 (interest rate)
+n = 4 (number of years)
+
+## Substituting: 
+
+$$PV={5000/{(1.05)^4}}$$
+PV = £4113.51
+
+The student needs to invest approximately £4113.51 today to accumulate £5000 in 4 years.
