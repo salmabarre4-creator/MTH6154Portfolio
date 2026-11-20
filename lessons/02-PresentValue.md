@@ -66,7 +66,7 @@ n = 4 (number of years)
 
 ## Substituting: 
 
-$$PV={/frac{5000}/{(1.05)^4}}$$
+$$PV={\frac{5000}{{1.05}^4}}$$
 $$PV = £4113.51$$
 
 The student needs to invest approximately £4113.51 today to accumulate £5000 in 4 years.
