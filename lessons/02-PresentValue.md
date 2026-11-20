@@ -81,5 +81,7 @@ An initial investment of £1000 generates payments of £500 at the end of Year 2
 
 ## Solution:
 
-$$1000{\frac{500}{{1+i}^{2}}}+{\frac{750}{{1+i}^{4}}}$$
+$$1000={\frac{500}{{1+i}^{2}}}+{\frac{750}{{1+i}^{4}}}$$
+
+## let $$x=(1+i)^2$$
 
