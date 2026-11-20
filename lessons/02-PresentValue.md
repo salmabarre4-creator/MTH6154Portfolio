@@ -98,3 +98,34 @@ $$x=1.15139$$
 $$i=7.31%$$
 
 
+## Week 2- Exercise 2: Comparing Present Values 
+
+### Question:
+
+After graduation, you receive two job offers for three years,
+
+### Company A:
+
+- £65,000 at the end of Year 1
+-  £75,000 at the end of Year 2
+-  £115,000 at the end of Year 3
+
+### Company B:
+
+- £15,000 signing bonus immediately
+- £79,000 at the end of each of the three years
+
+Determine which company offers the better deal at an intersect rate of 3.75%, compounded:
+
+i) Annually 
+ii) Continously
+
+### Solution:
+
+$$PV={\frac{FV}{1+i}^{n}}$$
+
+
+
+
+
+
