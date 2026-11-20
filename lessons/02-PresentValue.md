@@ -55,7 +55,7 @@ A student wants to save for a £5000 holiday in 4 years. A savings account offer
 
 How much should the student invest today to have £5000 in 4 years?
 
-## Solution:
+### Solution:
 
 $$PV={\frac{FV}{{1+i}^n}}$$
 
@@ -64,7 +64,7 @@ FV = 5000 (future value)
 i = 0.05 (interest rate)
 n = 4 (number of years)
 
-## Substituting: 
+### Substituting: 
 
 $$PV={\frac{5000}{{1.05}^4}}$$
 $$PV = £4113.51$$
