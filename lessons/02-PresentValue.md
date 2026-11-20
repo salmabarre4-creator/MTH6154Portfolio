@@ -70,3 +70,17 @@ $$PV={\frac{5000}{{1.05}^4}}$$
 $$PV = £4113.51$$
 
 The student needs to invest approximately £4113.51 today to accumulate £5000 in 4 years.
+
+
+## Week 2- Exercise 1: Internal Rate of Return (IRR)
+
+## Question: 
+
+An initial investment of £1000 generates payments of £500 at the end of Year 2 and £750 at the end of Year 4. Calculate the internal rate of return (IRR). 
+
+
+
+
+
+
+
