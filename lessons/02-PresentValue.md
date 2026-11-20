@@ -79,7 +79,9 @@ The student needs to invest approximately £4113.51 today to accumulate £5000 i
 An initial investment of £1000 generates payments of £500 at the end of Year 2 and £750 at the end of Year 4. Calculate the internal rate of return (IRR). 
 
 
+## Solution:
 
+$$1000
 
 
 
