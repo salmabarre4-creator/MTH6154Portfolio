@@ -122,7 +122,7 @@ ii) Continously
 
 ### Solution:
 
-$$PV={\frac{FV}{1+i}^{n}}$$
+$$PV={\frac{FV}{{1+i}^{n}}}$$
 
 
 
