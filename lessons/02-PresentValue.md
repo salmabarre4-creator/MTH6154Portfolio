@@ -145,10 +145,15 @@ $${PVa= {65000{e}^{-0.0375}} + {75000}{e}^{-0.075} + {115000}{e}^{-0.1125}}$$
 
 $$PVa = £234,952.09$$
 
+Company A offers the better deal by £25.74 when interest is compounded annually. 
+
+
 $${PVb= 15000 + {79000}{e}^{-0.0375} + {79000}{e}^{-0.075} + {79000}{e}^{-0.1125}}$$
 
 $$PVb = £234,978.28$$
 
+
+Company A is preferable under annual compounding, whereas Company B offers a slightly higher present value under continuous compounding.
 
 
 
