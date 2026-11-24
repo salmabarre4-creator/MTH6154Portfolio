@@ -157,6 +157,10 @@ $$PVb = £234,978.28$$
 
 Company A is preferable under annual compounding, whereas Company B offers a slightly higher present value under continuous compounding.
 
+## Interactive spreadsheet 
+
+The spreadsheet compares the present value of two job offers using annual and continuous compounding. Users can adjust the interest rate, salaries and signing bonus to explore how changes in cash flows and discount rates influence the value of each offer.
+
 
 
 
