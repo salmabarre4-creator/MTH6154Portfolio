@@ -148,6 +148,8 @@ $$PVa = £234,952.09$$
 Company A offers the better deal by £25.74 when interest is compounded annually. 
 
 
+
+
 $${PVb= 15000 + {79000}{e}^{-0.0375} + {79000}{e}^{-0.075} + {79000}{e}^{-0.1125}}$$
 
 $$PVb = £234,978.28$$
