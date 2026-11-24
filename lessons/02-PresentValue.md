@@ -118,11 +118,22 @@ After graduation, you receive two job offers for three years,
 Determine which company offers the better deal at an intersect rate of 3.75%, compounded:
 
 i) Annually 
+
 ii) Continously
 
 ### Solution:
 
 $$PV={\frac{FV}{{1+i}^{n}}}$$
+
+$${PVa= {\frac{65000}{1.0375}} + {\frac{75000}{{1.0375}^2}} + {\frac{115000}{{1.0375}^3}}}
+
+
+
+
+
+
+
+
 
 
 
